@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: green;
+  width: 960px;
+  margin: 10px auto;
+  height: 1.5cm;
+}
+
+nav a {
+  background-color: red;
+  width: fit-content;
+  margin-left: 200px;
+}
+
+figure {
+  display: block;
+  width: fit-content;
+  margin: 50px auto;
+}
+figcaption {
+  background-color: rgb(82, 40, 3);
+  text-align: center;
+  color: white;
+  padding: 4px;
+}
+#histoire img {
+  background-color: aqua;
+  display: block;
+}
+#histoire {
+  background-color: yellow;
+  width: 1040px;
+  margin: 50px auto;
+}
+#ancien-empire {
+  background-color: aliceblue;
+  width: 48%;
+  display: inline-block;
+  margin-left: 10px;
+}
+#moyen-empire {
+  background-color: rgb(145, 240, 11);
+  width: 50%;
+  display: inline-block;
+  margin: 0px auto;
+}
+footer {
+  background-color: rgb(158, 83, 19);
+  text-align: center;
+  color: white;
+}
+footer img {
+  margin-left: 50px;
+}
+p {
+  padding: 10px;
+  text-indent: 20px;
+}
